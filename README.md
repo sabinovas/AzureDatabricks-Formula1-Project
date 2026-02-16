@@ -2,7 +2,7 @@
 
 # 🏎️ Real-World Formula 1 Data Engineering Project on Azure Databricks & Spark
 
-This project demonstrates a **real-world, end-to-end data engineering pipeline** built using **Azure Databricks**, leveraging **Formula 1 racing datasets (1950–2020)**.
+This project demonstrates a **real-world, end-to-end data engineering pipeline** built using **Azure Databricks**, leveraging **Formula 1 racing datasets (2009–2021)**.
 
 The solution follows the **Medallion Architecture (Bronze → Silver → Gold)** and integrates core Azure services such as **Azure Data Lake Gen2**, **Azure Data Factory**, **Delta Lake**, **Unity Catalog**, **Azure Key Vault**, and **Power BI**.
 
